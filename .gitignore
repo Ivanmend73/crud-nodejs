@@ -1,0 +1,8 @@
+# Esto son las variables de entorno
+.env
+
+# Dependencias
+node_modules
+
+# Build folder
+dist
